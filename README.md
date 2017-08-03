@@ -6,8 +6,6 @@ I did this for the course "Modelagem Matem√°tica 3: Sistemas Lineares e Otimiza√
 
 Date: 2017.1
 
-Programming language: Scilab
-
 Implementations:
 
 1 - Jacobi's iterative method to solve linear systems
