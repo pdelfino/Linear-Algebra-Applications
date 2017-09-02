@@ -8,12 +8,12 @@ Date: 2017.1
 
 Implementations:
 
-1 - Jacobi's iterative method to solve linear systems
+* Jacobi's iterative method to solve linear systems
 
-2 - Gauss-Seidel's iterative method to solve linear systems
+* Gauss-Seidel's iterative method to solve linear systems
 
-3 - Least Square Method
+* Least Square Method
 
-4 - Single Value Decomposition and Rotation with Lena's classical image from the Playboy maganzine.
+* Single Value Decomposition and Rotation with Lena's classical image from the Playboy maganzine.
 
-5 - Iterative methods to find the eigen-values and eigen-vectors: power method, shifted power method, inverse power method, inverse shifted power method.
+* Iterative methods to find the eigen-values and eigen-vectors: power method, shifted power method, inverse power method, inverse shifted power method.
