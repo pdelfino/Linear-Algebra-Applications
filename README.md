@@ -1,4 +1,4 @@
-# Linear Algebra Applications
+# Numerical Methods for Linear Algebra
 
 Computer Science implementations for the book "Linear Algebra: A Modern Introduction" from David Poole.
 
